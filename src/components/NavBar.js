@@ -32,11 +32,11 @@ export const NavBar = () => {
     return (
         <Navbar expand="lg" className={scrolled ? 'scrolled': ''}>
             <Container>
-                <Navbar.Brand href="#home">
-                    <img className="shadow-lg  rounded d-flex" src={logo}  alt="logo" />
+                <Navbar.Brand   href="#home">
+                    <img  className="rounded d-flex" src={logo}  alt="logo" />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
-                    <span className="NavBar-toogle-icon"></span>
+                    <span className="NavBar-toogle-icon text-white">menu</span>
                 </Navbar.Toggle>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto nav">
