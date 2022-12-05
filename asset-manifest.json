@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prflio/static/css/main.44f7228b.css",
-    "main.js": "/prflio/static/js/main.e477d7fe.js",
+    "main.css": "/prflio/static/css/main.c2b343d1.css",
+    "main.js": "/prflio/static/js/main.9d99473d.js",
     "static/media/color-sharp.png": "/prflio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/prflio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/literoom.png": "/prflio/static/media/literoom.4e47ba8dfb9773c5fb5b.png",
@@ -41,11 +41,11 @@
     "index.html": "/prflio/index.html",
     "static/media/nav-icon1.svg": "/prflio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/prflio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.44f7228b.css.map": "/prflio/static/css/main.44f7228b.css.map",
-    "main.e477d7fe.js.map": "/prflio/static/js/main.e477d7fe.js.map"
+    "main.c2b343d1.css.map": "/prflio/static/css/main.c2b343d1.css.map",
+    "main.9d99473d.js.map": "/prflio/static/js/main.9d99473d.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f7228b.css",
-    "static/js/main.e477d7fe.js"
+    "static/css/main.c2b343d1.css",
+    "static/js/main.9d99473d.js"
   ]
 }
